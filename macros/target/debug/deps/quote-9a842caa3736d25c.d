@@ -1,0 +1,11 @@
+C:\Users\eduar\Downloads\rust-state-machine-master\rust-state-machine-master\macros\target\debug\deps\libquote-9a842caa3736d25c.rmeta: C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs
+
+C:\Users\eduar\Downloads\rust-state-machine-master\rust-state-machine-master\macros\target\debug\deps\quote-9a842caa3736d25c.d: C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs
+
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs:
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs:
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs:
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs:
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs:
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs:
+C:\Users\eduar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs:
